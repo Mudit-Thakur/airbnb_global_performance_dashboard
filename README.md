@@ -95,8 +95,8 @@ Visualize the concentration of Airbnb listings across different city locations.
 
 ## 📷 Dashboard Preview
 
-![screenshot_of_overview]((https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard/blob/main/screenshot_of_overview.png))
-![screenshot_of_rating](([https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard/blob/main/screenshot_of_overview.png](https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard/blob/main/screenshot_of_rating.png)))
+![screenshot_of_overview](https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard/blob/main/screenshot_of_overview.png)
+![screenshot_of_rating](https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard/blob/main/screenshot_of_rating.png)
 ![screenshot_of_reviews](https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard/blob/main/screenshot_of_reviews.png)
 ---
 
